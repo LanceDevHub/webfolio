@@ -1,1 +1,2 @@
-php contact
+-adjusting footer placement
+-php contact
