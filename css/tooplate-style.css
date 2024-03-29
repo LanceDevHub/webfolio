@@ -619,7 +619,7 @@ footer .copyright-text {
 }
 
 .social-icon li a:hover {
-  -webkit-transform: scale(1.2);
+  webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
 
