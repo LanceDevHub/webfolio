@@ -1,2 +1,3 @@
 -adjusting footer placement
+-getting to next pages/markers through navigation bar
 -php contact
